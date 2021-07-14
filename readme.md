@@ -11,4 +11,6 @@ git restore -> git restore -- staged file_name -> unstages the file_name
 git branch -> show the current and all branches in a repo
 git log -> shows the complete logs
 git reset -- soft HEAD~1 -> resets the repo to the previous commit
+git branch -> shows all the branch and which branch we are currently in
+git checkout branch_name -> switch us to a different branch
 ```
