@@ -11,4 +11,5 @@ git restore -> git restore -- staged file_name -> unstages the file_name
 git branch -> show the current and all branches in a repo
 git log -> shows the complete logs
 git reset -- soft HEAD~1 -> resets the repo to the previous commit
+Link for PR https://www.youtube.com
 ```
